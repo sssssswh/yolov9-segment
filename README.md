@@ -18,6 +18,8 @@ This project introduces an enhanced version for instance segmentation, bringing 
 
 This enhanced YOLOv9 model is designed for researchers and developers needing robust and accurate instance segmentation tools. The updated validation metrics and configuration requirements ensure that users can fully leverage the improved functionalities for their specific use cases.
 
+This is the comparison method used in my paper titled **YOLO-ITC: A New YOLO Method for Instance Segmentation of Individual Tree Crowns**, which was submitted to IEEE Transactions on Emerging Topics in Computational Intelligence and is currently under revision.
+
 ## Acknowledgements
 
 This project is based on '[YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://github.com/WongKinYiu/yolov9/tree/main)'.
